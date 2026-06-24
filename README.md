@@ -1,4 +1,4 @@
-Secure Sphere is a security-first banking operations and real-time fraud detection dashboard. It provides bank operators, risk analysts, and administrators with a comprehensive, centralized platform to manage bank customers, accounts, transactions, and cards, while proactively identifying and mitigating fraudulent activity using rule-based risk scoring and alert management.
+**Secure Sphere is a security-first banking operations and real-time fraud detection dashboard. It provides bank operators, risk analysts, and administrators with a comprehensive, centralized platform to manage bank customers, accounts, transactions, and cards, while proactively identifying and mitigating fraudulent activity using rule-based risk scoring and alert management.
 ---
 Key Features
 Interactive Operations Dashboard**: High-level telemetry displaying total customers, active accounts, transaction volumes, and unresolved fraud alerts at a glance.
@@ -20,7 +20,7 @@ Frontend
 * **Runtime & Framework**: Node.js, Express
 * **Database**: SQLite (via `better-sqlite3`)
 * **Features**: Auto-seeding database migrations, modular API routes, CORS validation.
----
+---**
  Project Structure
 ```text
 ├── server/                 # Express backend API & SQLite database
